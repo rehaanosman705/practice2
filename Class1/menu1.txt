@@ -1,0 +1,7 @@
+# Bloom Café menu - format: name,price
+Coffee,25.00
+Tea,20.00
+Muffin,30.00
+Sandwich,45.00
+Croissant,35.00
+Bagel,28.00
